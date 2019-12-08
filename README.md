@@ -4,3 +4,7 @@ A python library/package that can be installed from pypi. Use simple commands to
 
 Requiremente:
 Python Version: 3 and above
+
+Functions:
+Check a sentence for plagiarsm
+Check a full text file for plagiarism
